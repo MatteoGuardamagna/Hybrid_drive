@@ -19,7 +19,7 @@ This repository contains the following:
 ## Step-by-step building instructions
 
 <p align="center">
-<img src="images/drive_layout.png" width="85%">
+<img src="images/drive_layout_full.png" width="95%">
 </p>
 
 [1. Parts list](docs/parts_list.md)
