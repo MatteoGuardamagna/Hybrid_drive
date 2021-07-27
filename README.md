@@ -1,6 +1,6 @@
 # The Hybrid Drive
 
-A chronic implant device combining tetrode arrays with silicon probes for layer-resolved ensemble physiology
+A chronic implant device combining tetrode arrays with silicon probes, for layer-resolved ensemble physiology
 
 <p align="center">
 <img src="/images/hd_overview.png" width="90%">
