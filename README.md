@@ -9,12 +9,12 @@ A chronic implant device combining tetrode arrays with silicon probes for layer-
 This repository contains the following:
 
 * **Parts**: A list of parts needed to build the drive. Including [FlexDrive](https://github.com/open-ephys/flexDrive) git repositories for the drive body and the screw-spring mechanism.
-* **Building instructions**: a step-by-step guide on how to build the drive. 
+* **Building instructions**: a step-by-step guide on how to build the drive [here](docs/building_instructions.pdf). 
 * **Videos and images**
 * **Code**
 
 ## News
-- xxx the preprint of the drive is out on [biorxiv] ()
+- xxx the Hybrid drive preprint is out on [biorxiv] ()
 
 ## Step-by-step building instructions
 
@@ -31,10 +31,9 @@ This repository contains the following:
 
 ## Contribute
 
-Multiple area-specific arrays are present in the repository [array_design](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/docs/array_design). Create *pull requests* to contribute with new or improved designs.
+Different area-specific arrays are present in the repository [array_design](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/docs/array_design). Create *pull requests* to contribute with new or improved designs.
 
-The silicon probes and the EIB desgin can also be adapted, according to experimental demands. We actively collaborate with [ATLAS Neuro](https://www.atlasneuro.com/) to develop new combinations. Feel free to contact me at guardamagnamatteo@gmail.com
-
+The silicon probes and the EIB desgin can be adapted as well, according to experimental demands. We actively collaborate with [ATLAS Neuro](https://www.atlasneuro.com/) to develop new combinations. Feel free to contact me at guardamagnamatteo@gmail.com
 
 ## References
 
