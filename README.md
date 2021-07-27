@@ -1,21 +1,20 @@
 # The Hybrid Drive
 
-<p align="center">
-<img src="docs/images/hybrid_recap.jpg" width="90%">
-</p>
+A chronic implant device combining tetrode arrays with silicon probes for layer-resolved ensemble physiology
 
-The hybrid drive is described in:
-xxx
+<p align="center">
+<img src="/images/hd_overview.png" width="90%">
+</p>
 
 This repository contains the following:
 
 * **Parts**: A list of parts needed to build the drive. Including [FlexDrive](https://github.com/open-ephys/flexDrive) git repositories for the drive body and the screw-spring mechanism.
-* **Building instructions**
+* **Building instructions**: a step-by-step guide on how to build the drive. 
 * **Videos and images**
 * **Code**
 
 ## News
--
+- xxx the preprint of the drive is out on [biorxiv] ()
 
 ## Step-by-step building instructions
 
@@ -32,7 +31,9 @@ This repository contains the following:
 
 ## Contribute
 
-If you are looking for a different variant of the design or want to contribute modified and/or new designs, you can find all files in the [3D model directory](https://github.com/arnefmeyer/mousecam/tree/master/parts). Please use the *issue tracker* to report problems with building the camera system and create *pull requests* for improved/new designs.
+Multiple area-specific arrays are present in the repository [array_design](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/docs/array_design). Create *pull requests* to contribute with new or improved designs.
+
+The silicon probes and the EIB desgin can also be adapted, according to experimental demands. We actively collaborate with [ATLAS Neuro](https://www.atlasneuro.com/) to develop new combinations. Feel free to contact me at guardamagnamatteo@gmail.com
 
 
 ## References
