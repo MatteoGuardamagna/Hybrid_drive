@@ -13,7 +13,7 @@ Mouse implanted with the Hybrid drive in the homecage (connected the the Open Ep
 
 
 
-Linear track paradigm 
+####Linear track paradigm 
 
 ![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/linear_track.gif)
 
