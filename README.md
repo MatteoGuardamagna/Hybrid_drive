@@ -11,7 +11,7 @@ This repository contains the following:
 * **Parts**: A list of parts needed to build the drive. Including [FlexDrive](https://github.com/open-ephys/flexDrive) git repositories for the drive body and the screw-spring mechanism.
 * **Building instructions**: a step-by-step guide on how to build the drive [here](docs/building_instructions.pdf). 
 * **Implant instructions**: a quick guide on how to carry out an implant procedure.
-* **Videos and images**: A collection of images and videos of the hybrid drive, before and after the implant procedure.
+* **Videos and images**: A collection of [images](Hybrid_drive/images) and [videos](Hybrid_drive/videos) of the hybrid drive, before and after the implant procedure.
 
 
 ## News
@@ -27,7 +27,7 @@ This repository contains the following:
 
 [2. Building instructions](docs/building_instructions.md)
 
-[3. Implantation](docs/implantation.md)
+[3. Implant procedure](docs/implant_procedure.md)
 
 
 ## Contribute
