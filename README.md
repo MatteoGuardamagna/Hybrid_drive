@@ -25,7 +25,7 @@ This repository contains the following:
 
 [1. Parts list](docs/parts_list.md)
 
-[2. Building instructions](docs/building_instructions.pfd)
+[2. Building instructions](docs/building_instructions.pdf)
 
 [3. Implant procedure](docs/implant_procedure.pdf)
 
