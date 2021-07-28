@@ -13,14 +13,15 @@ Mouse implanted with the Hybrid drive in the homecage (connected the the Open Ep
 
 
 
+Linear track paradigm 
+
+![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/linear_track.gif)
+
+
+
 Object exploration paradigm, with behavioural segmentation (Video credit: [Davide Spalla](https://github.com/davidespalla))
 
 ![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/object_exploration.gif)
 
-
-
-Linear track paradigm 
-
-![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/linear_track.gif)
 
 
