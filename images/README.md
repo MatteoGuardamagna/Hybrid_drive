@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="images/body_tube_zoom.jpg" width="90%">
+<img src="Hybrid_drive/images/body_tube_zoom.jpg" width="90%">
 </p>
 
 
