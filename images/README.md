@@ -62,12 +62,12 @@
 
 
 <p align="center">
-<img src="images/explant_zoom.jpg" width="90%">
+<img src="images/explant_zoom.png" width="90%">
 </p>
 
 
 <p align="center">
-<img src="images/explant_zoom2.jpg" width="90%">
+<img src="images/explant_zoom2.png" width="90%">
 </p>
 
 
