@@ -2,8 +2,8 @@
 
 ## Drive building:
 
-* A video showing the insertion of the probe in the drive [here](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/probe_placement.mp4)
-* A video showing the positioning of the probe in the support structure [here](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/probe_positioning.mp4)
+* A video showing the insertion of the probe in the drive structure [here](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/probe_placement.mp4)
+* A video showing the positioning of the probe in the tubing structure [here](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/probe_positioning.mp4)
 
 ## Freely moving animals:
 
