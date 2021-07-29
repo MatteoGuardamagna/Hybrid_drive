@@ -9,9 +9,8 @@
 
 #### Mouse implanted with the Hybrid drive in the homecage (connected the the Open Ephys recording system). Notice that rearing behaviours are not impeded.
 
-<p align="center">
-<![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/mouse_hd_homecage.gif)>
-</p>
+![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/mouse_hd_homecage.gif)
+
 
 #### Handling of a mouse implanted with the Hybrid drive. 
 
