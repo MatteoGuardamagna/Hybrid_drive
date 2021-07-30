@@ -30,6 +30,15 @@ This repository contains the following:
 [3. Implant procedure](docs/implant_procedure.pdf)
 
 
+## Scientific aproach
+
+Many brain areas, including the cortex and the hippocampus, are organized in local circuits and laminar structure with information processing within and across layers. Simultaneously measuring neural activity across these two dimensions, while an animal is interacting with its environment, remains a key challenge in modern neuroscience. We aim to answer these challenges with the Hybrid drive, combining the flexibility of tetrode arryas with the spatial extent of silicon probes in a single device. This microdrive enables novel insights on how the input balance from different layers influences the spiking activity of large neural populations, in freely moving mice. 
+
+
+<p align="center">
+<img src="images/signals.png" width="95%">
+</p>
+
 ## Contribute
 
 Different area-specific arrays are present in the repository [array_design](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/docs/array_design). Create *pull requests* to contribute with new or improved designs.
