@@ -34,6 +34,11 @@
 
 
 <p align="center">
+<img src="/images/EIB.jpg" width="50%">
+</p>
+
+
+<p align="center">
 <img src="/images/EIB_drive.JPG" width="50%">
 </p>
 
