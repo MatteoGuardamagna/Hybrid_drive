@@ -1,4 +1,4 @@
-# The Hybrid Drive
+# The Hybrid drive
 
 A chronic implant device combining tetrode arrays with silicon probes, for layer-resolved ensemble physiology
 
