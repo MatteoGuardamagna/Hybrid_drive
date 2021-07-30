@@ -76,5 +76,22 @@
 </p>
 
 
+## Double silicon probe
 
+
+<p align="center">
+<img src="/images/doubleSP1.jpg" width="50%">
+</p>
+
+<p align="center">
+<img src="/images/doubleSP2.jpg" width="50%">
+</p>
+
+<p align="center">
+<img src="/images/doubleSP3.jpg" width="50%">
+</p>
+
+<p align="center">
+<img src="/images/doubleSP4.jpg" width="50%">
+</p>
 
