@@ -67,12 +67,12 @@
 
 
 <p align="center">
-<img src="/images/explant_zoom.png" width="50%">
+<img src="/images/explant_zoom.png" width="80%">
 </p>
 
 
 <p align="center">
-<img src="/images/explant_zoom2.png" width="50%">
+<img src="/images/explant_zoom2.png" width="50%" height="50%" >
 </p>
 
 
