@@ -2,9 +2,9 @@
 
 | **Part** | **Supplier/item** |
 | -------- | ----------------- |
-Drive Body | Refer to the [FlexDrive repository](https://github.com/open-ephys/flexDrive/tree/master/Drive%20Body) |
-Spring     | Refer to the [FlexDrive repository](https://github.com/open-ephys/flexDrive/tree/master/Spring) |
-Shield cone| Refer to the [FlexDrive repository](https://github.com/open-ephys/flexDrive/tree/master/Shield%20Cap) | 
+Drive Body | Refer to the [flexDrive repository](https://github.com/open-ephys/flexDrive/tree/master/Drive%20Body) |
+Spring     | Refer to the [flexDrive repository](https://github.com/open-ephys/flexDrive/tree/master/Spring) |
+Shield cone| Refer to the [flexDrive repository](https://github.com/open-ephys/flexDrive/tree/master/Shield%20Cap) | 
 Screws     | Set of screws at [Labmaker](https://www.labmaker.org/products/set-of-srews?_pos=3&_sid=ce0c2ca8d&_ss=r) |
 Tubing     | 26ga, 33ga and 38ga polyimide tubing at [Professional plastics](https://www.professionalplastics.com/POLYIMIDETUBINGMEDICALWIREPROBE)    |
 Gold pins  | Small EIB Pins at [Neuralynx](https://neuralynx.com/hardware/small-eib-pins)  |
