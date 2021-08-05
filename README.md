@@ -9,7 +9,7 @@ A chronic implant device combining tetrode arrays with silicon probes, for layer
 This repository contains the following:
 
 * **Parts**: A list of parts needed to build the drive. Including [flexDrive](https://github.com/open-ephys/flexDrive) git repositories for the drive body and the screw-spring mechanism.
-* **Building instructions**: a step-by-step [guide](docs/building_instructions.pdf) on how to build the drive.
+* **Building instructions**: a step-by-step [guide](docs/hd_building_instructions.pdf) on how to build the drive.
 * **Implant instructions**: a quick [guide](docs/implant_procedure.pdf) on how to carry out an implant procedure witht the Hybrid drive.
 * **Array design**: a [repository](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/docs/array_design) with all tested implant designs. 
 * **Videos and images**: A collection of [images](Hybrid_drive/images) and [videos](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/videos) of the hybrid drive, before and after the implant procedure.
