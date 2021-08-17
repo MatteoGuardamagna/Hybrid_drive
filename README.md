@@ -12,7 +12,7 @@ This repository contains the following:
 * **Building instructions**: a step-by-step [guide](docs/hd_building_instructions.pdf) on how to build the drive.
 * **Implant instructions**: a quick [guide](docs/implant_procedure.pdf) on how to carry out an implant procedure witht the Hybrid drive.
 * **Array design**: a [repository](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/docs/array_design) with all tested implant designs. 
-* **Videos and images**: A collection of [images](Hybrid_drive/images) and [videos](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/videos) of the hybrid drive, before and after the implant procedure.
+* **Videos and images**: A collection of [images](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/images) and [videos](https://github.com/MatteoGuardamagna/Hybrid_drive/tree/main/videos) of the hybrid drive, before and after the implant procedure.
 
 
 ## News
