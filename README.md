@@ -33,8 +33,7 @@ This repository contains the following:
 
 ## Scientific aproach
 
-Many brain areas, including the cortex and the hippocampus, are organized in local circuits and laminar structures with information processing within and across layers. Simultaneously measuring neural activity across these two dimensions while an animal is freely interacting with its environment remains a key challenge in modern neuroscience. We aim to tackle this challenge with the Hybrid Drive, combining in a single device the flexibility of tetrode arrays with the spatial coverage of silicon probes. This microdrive enables novel insights on how the input balance from different layers influences the temporal organization of the spiking activity of large neural populations in freely moving mice. 
-
+Many brain areas, including the cortex and the hippocampus, are organized in local circuits and laminar structures with information processing within and across layers. Simultaneously measuring neural activity across these two dimensions, while an animal is freely interacting with its environment, remains a key challenge in modern neuroscience. We aim to tackle this challenge with the Hybrid Drive, combining in a single device the flexibility of tetrode arrays with the spatial coverage of silicon probes. This microdrive enables novel insights on the relation between layer-specific and across-layer neural activity, with high spatial and temporal precision, in freely moving mice. 
 
 <p align="center">
 <img src="images/signals.png" width="95%">
