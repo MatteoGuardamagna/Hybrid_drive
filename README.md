@@ -16,7 +16,7 @@ This repository contains the following:
 
 
 ## News
-- xxx the Hybrid Drive preprint is out on [biorxiv] ()
+- 20/08/2021 the Hybrid Drive preprint is out on [biorxiv](https://www.biorxiv.org/content/10.1101/2021.08.20.457090v1)
 
 ## Step-by-step building instructions
 
