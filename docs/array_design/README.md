@@ -8,8 +8,3 @@
 
 
 
-## Bilateral prefrontal cortex (in development - no probe recordings, only tetrodes at the moment), design by [Ronny Eichler](https://github.com/wonkoderverstaendige)
-
-<p align="center">
-<img src="/docs/array_design/pfc_design.png" width="90%">
-</p>
