@@ -26,7 +26,7 @@ This repository contains the following:
 
 [1. Parts list](docs/parts_list.md)
 
-[2. Building instructions](docs/hd_building_instructions.pdf)
+[2. Building instructions](docs/Hybrid_Drive_Protocols.pdf)
 
 [3. Implant procedure](docs/implant_procedure.pdf)
 
