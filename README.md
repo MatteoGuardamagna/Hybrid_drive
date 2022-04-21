@@ -48,7 +48,7 @@ The silicon probes and the EIB desgin can be adapted as well, according to exper
 ## References
 
 ```
-@Article{Guardamagna2021,
+@Article{Guardamagna2022,
   author    = {Guardamagna, Matteo and Eichler, Ronny and Pedrosa, Rafael and Aarts, Arno and Meyer, Arne F. and Battaglia, Francesco P.},
   title     = {The Hybrid Drive: a chronic implant device combining tetrode arrays with silicon probes for layer-resolved ensemble electrophysiology in freely moving mice},
   journal   = {Journal of Neural Engineering},
