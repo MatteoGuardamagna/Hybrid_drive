@@ -24,6 +24,12 @@
 
 
 
+#### Object exploration paradigm
+
+![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/object_exploration1.gif)
+
+
+
 #### Object exploration paradigm, with behavioural segmentation (Video credit: [Davide Spalla](https://github.com/davidespalla))
 
 ![Alt Text](https://github.com/MatteoGuardamagna/Hybrid_drive/blob/main/videos/object_exploration.gif)
