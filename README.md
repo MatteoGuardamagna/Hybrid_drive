@@ -16,6 +16,7 @@ This repository contains the following:
 
 
 ## News
+- 06/06/2022 The Hybrid Drive paper has been published on the [Journal of Neural Engineering](https://iopscience.iop.org/article/10.1088/1741-2552/ac6771) 📄
 - 22/04/2022 The Hybrid Drive is featured on the [Open Ephys Wiki](https://open-ephys.atlassian.net/wiki/spaces/OEW/pages/3084255233/Hybrid+Drive) 🛠
 - 14/04/2022 Our manuscript is accepted in the [Journal of Neural Engineering](https://iopscience.iop.org/article/10.1088/1741-2552/ac6771) 🎉
 - 20/08/2021 The Hybrid Drive preprint is out on [biorxiv](https://www.biorxiv.org/content/10.1101/2021.08.20.457090v1) 💡
